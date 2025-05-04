@@ -15,5 +15,4 @@ func main() {
 	routes.RegisterRoutes(server)
 
 	server.Run(":8080")
-	fmt.Println("Hi")
 }
