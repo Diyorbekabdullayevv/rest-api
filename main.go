@@ -1,8 +1,6 @@
 package main
 
 import (
-	"fmt"
-
 	"example.com/rest-api/db"
 	"example.com/rest-api/routes"
 	"github.com/gin-gonic/gin"
